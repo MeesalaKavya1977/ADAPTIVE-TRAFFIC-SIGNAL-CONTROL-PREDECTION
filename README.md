@@ -15,6 +15,8 @@ demonstrate the system’s effectiveness and compare it with the existing static
 
 
 Vehicle Detection Module
+
+
 ● The proposed system uses YOLO (You only look once) for vehicle detection, which
 provides the desired accuracy and processing time. A custom YOLO model was trained for
 vehicle detection, which can detect vehicles of different classes like cars, bikes, heavy
